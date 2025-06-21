@@ -80,5 +80,3 @@ Currently pursuing a **Bachelor’s in Information Technology** at *October Tech
 
 ---
 
-## 😄 Just for Fun
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
